@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="848px" height="813px" viewBox="0 0 848 813" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Helix Square Logo V4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V4">
+            <g id="LI-Copy" transform="translate(0.000000, 402.000000)" fill="#5F574F">
+                <rect id="Rectangle" transform="translate(40.000000, 175.000000) rotate(90.000000) translate(-40.000000, -175.000000) " x="-135" y="135" width="350" height="80" rx="20"></rect>
+                <rect id="Rectangle" transform="translate(320.000000, 175.000000) rotate(90.000000) translate(-320.000000, -175.000000) " x="145" y="135" width="350" height="80" rx="20"></rect>
+                <rect id="Rectangle" x="40" y="270" width="200" height="80" rx="20"></rect>
+            </g>
+            <g id="E-Copy" transform="translate(437.000000, 0.000000)" fill="#5F574F">
+                <rect id="Rectangle" transform="translate(40.000000, 175.000000) rotate(90.000000) translate(-40.000000, -175.000000) " x="-135" y="135" width="350" height="80" rx="20"></rect>
+                <rect id="Rectangle" x="40" y="0" width="310" height="80" rx="20"></rect>
+                <rect id="Rectangle" x="40" y="135" width="310" height="80" rx="20"></rect>
+                <rect id="Rectangle" x="40" y="270" width="310" height="80" rx="20"></rect>
+            </g>
+            <g id="H-Copy" fill="#8C1515">
+                <rect id="Rectangle" x="41" y="136" width="270" height="80"></rect>
+                <rect id="Rectangle" transform="translate(311.000000, 176.000000) rotate(90.000000) translate(-311.000000, -176.000000) " x="136" y="136" width="350" height="80" rx="20"></rect>
+                <rect id="Rectangle" transform="translate(40.781250, 175.605469) rotate(90.000000) translate(-40.781250, -175.605469) " x="-134.21875" y="135.605469" width="350" height="80" rx="20"></rect>
+            </g>
+            <g id="helix" transform="translate(437.000000, 402.000000)" stroke="#8C1515" stroke-width="40" stroke-linecap="round">
+                <path d="M1,1 C1,153.3143 391,226.363456 391,391" id="Path-2"></path>
+                <path d="M0,1 C1.50436943e-14,153.3143 390,226.363456 390,391" id="Path-2-Copy" transform="translate(195.000000, 196.000000) scale(-1, 1) translate(-195.000000, -196.000000) "></path>
+                <path d="M58.5,1 L331.5,1" id="Line"></path>
+                <path d="M116.5,74 L259.5,74" id="Line-Copy-2"></path>
+                <path d="M124.5,309 L267.5,309" id="Line-Copy-3"></path>
+                <path d="M58.5,391 L331.5,391" id="Line-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>
